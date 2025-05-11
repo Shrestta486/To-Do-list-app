@@ -1,21 +1,29 @@
-<<<<<<< HEAD
-# to_do_app
+# Flutter To-Do List App
 
-A new Flutter project.
+A simple To-Do List application built with Flutter that allows users to:
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Persist tasks between app sessions
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+ **Task Management**  
+   - Add new tasks with a simple input field  
+   - Mark tasks as completed with checkboxes  
+   - Delete tasks with swipe-to-dismiss or delete button  
 
-A few resources to get you started if this is your first Flutter project:
+**Persistence**  
+   - Tasks are saved locally using SharedPreferences  
+   - Data persists between app restarts  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ **Responsive UI**  
+   - Works on all screen sizes  
+   - Supports both portrait and landscape orientations  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# To-Do-list-app
-To-Do list application built with Flutter
->>>>>>> b98aa7b4c26e1f5430917b1e2ec05a1adfe9a621
+ **User-Friendly Interface**  
+   - Clean, intuitive design  
+   - Visual feedback for completed tasks  
+
+
+
